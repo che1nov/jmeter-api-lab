@@ -1,0 +1,842 @@
+[
+  {
+    "timestamp": 1795238067.482742,
+    "metrics": {
+      "process.cpu.usage": [
+        {
+          "statistic": "VALUE",
+          "value": 0.010962365616952777
+        }
+      ],
+      "jvm.memory.used": [
+        {
+          "statistic": "VALUE",
+          "value": 68461200.0
+        }
+      ],
+      "jvm.threads.live": [
+        {
+          "statistic": "VALUE",
+          "value": 27.0
+        }
+      ],
+      "hikaricp.connections.active": [
+        {
+          "statistic": "VALUE",
+          "value": 0.0
+        }
+      ],
+      "hikaricp.connections.pending": [
+        {
+          "statistic": "VALUE",
+          "value": 0.0
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": 1795238069.505493,
+    "metrics": {
+      "process.cpu.usage": [
+        {
+          "statistic": "VALUE",
+          "value": 0.050379485088104387
+        }
+      ],
+      "jvm.memory.used": [
+        {
+          "statistic": "VALUE",
+          "value": 69509776.0
+        }
+      ],
+      "jvm.threads.live": [
+        {
+          "statistic": "VALUE",
+          "value": 27.0
+        }
+      ],
+      "hikaricp.connections.active": [
+        {
+          "statistic": "VALUE",
+          "value": 0.0
+        }
+      ],
+      "hikaricp.connections.pending": [
+        {
+          "statistic": "VALUE",
+          "value": 0.0
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": 1795238071.513935,
+    "metrics": {
+      "process.cpu.usage": [
+        {
+          "statistic": "VALUE",
+          "value": 0.0878007217670994
+        }
+      ],
+      "jvm.memory.used": [
+        {
+          "statistic": "VALUE",
+          "value": 76849808.0
+        }
+      ],
+      "jvm.threads.live": [
+        {
+          "statistic": "VALUE",
+          "value": 27.0
+        }
+      ],
+      "hikaricp.connections.active": [
+        {
+          "statistic": "VALUE",
+          "value": 0.0
+        }
+      ],
+      "hikaricp.connections.pending": [
+        {
+          "statistic": "VALUE",
+          "value": 0.0
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": 1795238073.5224588,
+    "metrics": {
+      "process.cpu.usage": [
+        {
+          "statistic": "VALUE",
+          "value": 0.048562310022828375
+        }
+      ],
+      "jvm.memory.used": [
+        {
+          "statistic": "VALUE",
+          "value": 88384144.0
+        }
+      ],
+      "jvm.threads.live": [
+        {
+          "statistic": "VALUE",
+          "value": 27.0
+        }
+      ],
+      "hikaricp.connections.active": [
+        {
+          "statistic": "VALUE",
+          "value": 0.0
+        }
+      ],
+      "hikaricp.connections.pending": [
+        {
+          "statistic": "VALUE",
+          "value": 0.0
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": 1795238075.532095,
+    "metrics": {
+      "process.cpu.usage": [
+        {
+          "statistic": "VALUE",
+          "value": 0.041149065618451455
+        }
+      ],
+      "jvm.memory.used": [
+        {
+          "statistic": "VALUE",
+          "value": 106209936.0
+        }
+      ],
+      "jvm.threads.live": [
+        {
+          "statistic": "VALUE",
+          "value": 27.0
+        }
+      ],
+      "hikaricp.connections.active": [
+        {
+          "statistic": "VALUE",
+          "value": 0.0
+        }
+      ],
+      "hikaricp.connections.pending": [
+        {
+          "statistic": "VALUE",
+          "value": 0.0
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": 1795238077.536847,
+    "metrics": {
+      "process.cpu.usage": [
+        {
+          "statistic": "VALUE",
+          "value": 0.05726878465661147
+        }
+      ],
+      "jvm.memory.used": [
+        {
+          "statistic": "VALUE",
+          "value": 127181456.0
+        }
+      ],
+      "jvm.threads.live": [
+        {
+          "statistic": "VALUE",
+          "value": 27.0
+        }
+      ],
+      "hikaricp.connections.active": [
+        {
+          "statistic": "VALUE",
+          "value": 0.0
+        }
+      ],
+      "hikaricp.connections.pending": [
+        {
+          "statistic": "VALUE",
+          "value": 0.0
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": 1795238079.5448132,
+    "metrics": {
+      "process.cpu.usage": [
+        {
+          "statistic": "VALUE",
+          "value": 0.07521035102327008
+        }
+      ],
+      "jvm.memory.used": [
+        {
+          "statistic": "VALUE",
+          "value": 150250128.0
+        }
+      ],
+      "jvm.threads.live": [
+        {
+          "statistic": "VALUE",
+          "value": 27.0
+        }
+      ],
+      "hikaricp.connections.active": [
+        {
+          "statistic": "VALUE",
+          "value": 0.0
+        }
+      ],
+      "hikaricp.connections.pending": [
+        {
+          "statistic": "VALUE",
+          "value": 0.0
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": 1795238081.550886,
+    "metrics": {
+      "process.cpu.usage": [
+        {
+          "statistic": "VALUE",
+          "value": 0.023451674375458278
+        }
+      ],
+      "jvm.memory.used": [
+        {
+          "statistic": "VALUE",
+          "value": 29960000.0
+        }
+      ],
+      "jvm.threads.live": [
+        {
+          "statistic": "VALUE",
+          "value": 28.0
+        }
+      ],
+      "hikaricp.connections.active": [
+        {
+          "statistic": "VALUE",
+          "value": 0.0
+        }
+      ],
+      "hikaricp.connections.pending": [
+        {
+          "statistic": "VALUE",
+          "value": 0.0
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": 1795238083.558738,
+    "metrics": {
+      "process.cpu.usage": [
+        {
+          "statistic": "VALUE",
+          "value": 0.016966619646471892
+        }
+      ],
+      "jvm.memory.used": [
+        {
+          "statistic": "VALUE",
+          "value": 53028672.0
+        }
+      ],
+      "jvm.threads.live": [
+        {
+          "statistic": "VALUE",
+          "value": 28.0
+        }
+      ],
+      "hikaricp.connections.active": [
+        {
+          "statistic": "VALUE",
+          "value": 0.0
+        }
+      ],
+      "hikaricp.connections.pending": [
+        {
+          "statistic": "VALUE",
+          "value": 0.0
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": 1795238085.564331,
+    "metrics": {
+      "process.cpu.usage": [
+        {
+          "statistic": "VALUE",
+          "value": 0.023541183984396617
+        }
+      ],
+      "jvm.memory.used": [
+        {
+          "statistic": "VALUE",
+          "value": 77145920.0
+        }
+      ],
+      "jvm.threads.live": [
+        {
+          "statistic": "VALUE",
+          "value": 27.0
+        }
+      ],
+      "hikaricp.connections.active": [
+        {
+          "statistic": "VALUE",
+          "value": 0.0
+        }
+      ],
+      "hikaricp.connections.pending": [
+        {
+          "statistic": "VALUE",
+          "value": 0.0
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": 1795238087.571946,
+    "metrics": {
+      "process.cpu.usage": [
+        {
+          "statistic": "VALUE",
+          "value": 0.019809212702283748
+        }
+      ],
+      "jvm.memory.used": [
+        {
+          "statistic": "VALUE",
+          "value": 101263168.0
+        }
+      ],
+      "jvm.threads.live": [
+        {
+          "statistic": "VALUE",
+          "value": 27.0
+        }
+      ],
+      "hikaricp.connections.active": [
+        {
+          "statistic": "VALUE",
+          "value": 0.0
+        }
+      ],
+      "hikaricp.connections.pending": [
+        {
+          "statistic": "VALUE",
+          "value": 0.0
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": 1795238089.576812,
+    "metrics": {
+      "process.cpu.usage": [
+        {
+          "statistic": "VALUE",
+          "value": 0.010782852398275566
+        }
+      ],
+      "jvm.memory.used": [
+        {
+          "statistic": "VALUE",
+          "value": 125380416.0
+        }
+      ],
+      "jvm.threads.live": [
+        {
+          "statistic": "VALUE",
+          "value": 27.0
+        }
+      ],
+      "hikaricp.connections.active": [
+        {
+          "statistic": "VALUE",
+          "value": 0.0
+        }
+      ],
+      "hikaricp.connections.pending": [
+        {
+          "statistic": "VALUE",
+          "value": 0.0
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": 1795238091.583405,
+    "metrics": {
+      "process.cpu.usage": [
+        {
+          "statistic": "VALUE",
+          "value": 0.01254397066645
+        }
+      ],
+      "jvm.memory.used": [
+        {
+          "statistic": "VALUE",
+          "value": 150546240.0
+        }
+      ],
+      "jvm.threads.live": [
+        {
+          "statistic": "VALUE",
+          "value": 27.0
+        }
+      ],
+      "hikaricp.connections.active": [
+        {
+          "statistic": "VALUE",
+          "value": 0.0
+        }
+      ],
+      "hikaricp.connections.pending": [
+        {
+          "statistic": "VALUE",
+          "value": 0.0
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": 1795238093.587459,
+    "metrics": {
+      "process.cpu.usage": [
+        {
+          "statistic": "VALUE",
+          "value": 0.020664417842226335
+        }
+      ],
+      "jvm.memory.used": [
+        {
+          "statistic": "VALUE",
+          "value": 174663488.0
+        }
+      ],
+      "jvm.threads.live": [
+        {
+          "statistic": "VALUE",
+          "value": 28.0
+        }
+      ],
+      "hikaricp.connections.active": [
+        {
+          "statistic": "VALUE",
+          "value": 0.0
+        }
+      ],
+      "hikaricp.connections.pending": [
+        {
+          "statistic": "VALUE",
+          "value": 0.0
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": 1795238095.594794,
+    "metrics": {
+      "process.cpu.usage": [
+        {
+          "statistic": "VALUE",
+          "value": 0.02287138202031819
+        }
+      ],
+      "jvm.memory.used": [
+        {
+          "statistic": "VALUE",
+          "value": 50652424.0
+        }
+      ],
+      "jvm.threads.live": [
+        {
+          "statistic": "VALUE",
+          "value": 28.0
+        }
+      ],
+      "hikaricp.connections.active": [
+        {
+          "statistic": "VALUE",
+          "value": 0.0
+        }
+      ],
+      "hikaricp.connections.pending": [
+        {
+          "statistic": "VALUE",
+          "value": 0.0
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": 1795238097.604536,
+    "metrics": {
+      "process.cpu.usage": [
+        {
+          "statistic": "VALUE",
+          "value": 0.02493589845678521
+        }
+      ],
+      "jvm.memory.used": [
+        {
+          "statistic": "VALUE",
+          "value": 74769672.0
+        }
+      ],
+      "jvm.threads.live": [
+        {
+          "statistic": "VALUE",
+          "value": 27.0
+        }
+      ],
+      "hikaricp.connections.active": [
+        {
+          "statistic": "VALUE",
+          "value": 0.0
+        }
+      ],
+      "hikaricp.connections.pending": [
+        {
+          "statistic": "VALUE",
+          "value": 0.0
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": 1795238099.612848,
+    "metrics": {
+      "process.cpu.usage": [
+        {
+          "statistic": "VALUE",
+          "value": 0.02467493783671778
+        }
+      ],
+      "jvm.memory.used": [
+        {
+          "statistic": "VALUE",
+          "value": 98886920.0
+        }
+      ],
+      "jvm.threads.live": [
+        {
+          "statistic": "VALUE",
+          "value": 27.0
+        }
+      ],
+      "hikaricp.connections.active": [
+        {
+          "statistic": "VALUE",
+          "value": 0.0
+        }
+      ],
+      "hikaricp.connections.pending": [
+        {
+          "statistic": "VALUE",
+          "value": 0.0
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": 1795238101.6194172,
+    "metrics": {
+      "process.cpu.usage": [
+        {
+          "statistic": "VALUE",
+          "value": 0.024562238365762983
+        }
+      ],
+      "jvm.memory.used": [
+        {
+          "statistic": "VALUE",
+          "value": 123004168.0
+        }
+      ],
+      "jvm.threads.live": [
+        {
+          "statistic": "VALUE",
+          "value": 27.0
+        }
+      ],
+      "hikaricp.connections.active": [
+        {
+          "statistic": "VALUE",
+          "value": 0.0
+        }
+      ],
+      "hikaricp.connections.pending": [
+        {
+          "statistic": "VALUE",
+          "value": 0.0
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": 1795238103.627724,
+    "metrics": {
+      "process.cpu.usage": [
+        {
+          "statistic": "VALUE",
+          "value": 0.02942559510024956
+        }
+      ],
+      "jvm.memory.used": [
+        {
+          "statistic": "VALUE",
+          "value": 147121416.0
+        }
+      ],
+      "jvm.threads.live": [
+        {
+          "statistic": "VALUE",
+          "value": 28.0
+        }
+      ],
+      "hikaricp.connections.active": [
+        {
+          "statistic": "VALUE",
+          "value": 0.0
+        }
+      ],
+      "hikaricp.connections.pending": [
+        {
+          "statistic": "VALUE",
+          "value": 0.0
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": 1795238105.635265,
+    "metrics": {
+      "process.cpu.usage": [
+        {
+          "statistic": "VALUE",
+          "value": 0.01580495950222764
+        }
+      ],
+      "jvm.memory.used": [
+        {
+          "statistic": "VALUE",
+          "value": 171238664.0
+        }
+      ],
+      "jvm.threads.live": [
+        {
+          "statistic": "VALUE",
+          "value": 28.0
+        }
+      ],
+      "hikaricp.connections.active": [
+        {
+          "statistic": "VALUE",
+          "value": 1.0
+        }
+      ],
+      "hikaricp.connections.pending": [
+        {
+          "statistic": "VALUE",
+          "value": 0.0
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": 1795238107.647142,
+    "metrics": {
+      "process.cpu.usage": [
+        {
+          "statistic": "VALUE",
+          "value": 0.025888427041339663
+        }
+      ],
+      "jvm.memory.used": [
+        {
+          "statistic": "VALUE",
+          "value": 49247872.0
+        }
+      ],
+      "jvm.threads.live": [
+        {
+          "statistic": "VALUE",
+          "value": 27.0
+        }
+      ],
+      "hikaricp.connections.active": [
+        {
+          "statistic": "VALUE",
+          "value": 0.0
+        }
+      ],
+      "hikaricp.connections.pending": [
+        {
+          "statistic": "VALUE",
+          "value": 0.0
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": 1795238109.656548,
+    "metrics": {
+      "process.cpu.usage": [
+        {
+          "statistic": "VALUE",
+          "value": 0.0178881277458786
+        }
+      ],
+      "jvm.memory.used": [
+        {
+          "statistic": "VALUE",
+          "value": 72316544.0
+        }
+      ],
+      "jvm.threads.live": [
+        {
+          "statistic": "VALUE",
+          "value": 27.0
+        }
+      ],
+      "hikaricp.connections.active": [
+        {
+          "statistic": "VALUE",
+          "value": 0.0
+        }
+      ],
+      "hikaricp.connections.pending": [
+        {
+          "statistic": "VALUE",
+          "value": 0.0
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": 1795238111.662001,
+    "metrics": {
+      "process.cpu.usage": [
+        {
+          "statistic": "VALUE",
+          "value": 0.02145050395672209
+        }
+      ],
+      "jvm.memory.used": [
+        {
+          "statistic": "VALUE",
+          "value": 96433792.0
+        }
+      ],
+      "jvm.threads.live": [
+        {
+          "statistic": "VALUE",
+          "value": 28.0
+        }
+      ],
+      "hikaricp.connections.active": [
+        {
+          "statistic": "VALUE",
+          "value": 1.0
+        }
+      ],
+      "hikaricp.connections.pending": [
+        {
+          "statistic": "VALUE",
+          "value": 0.0
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": 1795238113.676068,
+    "metrics": {
+      "process.cpu.usage": [
+        {
+          "statistic": "VALUE",
+          "value": 0.013973748841013912
+        }
+      ],
+      "jvm.memory.used": [
+        {
+          "statistic": "VALUE",
+          "value": 115308160.0
+        }
+      ],
+      "jvm.threads.live": [
+        {
+          "statistic": "VALUE",
+          "value": 28.0
+        }
+      ],
+      "hikaricp.connections.active": [
+        {
+          "statistic": "VALUE",
+          "value": 0.0
+        }
+      ],
+      "hikaricp.connections.pending": [
+        {
+          "statistic": "VALUE",
+          "value": 0.0
+        }
+      ]
+    }
+  }
+]

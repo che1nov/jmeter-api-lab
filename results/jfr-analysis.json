@@ -1,0 +1,77 @@
+{
+  "scope": "Full 55-second JFR recording started immediately before peak JMeter launch",
+  "execution_samples": 104,
+  "top_leaf_methods": [
+    [
+      "java.util.concurrent.ConcurrentHashMap.get",
+      5
+    ],
+    [
+      "java.lang.String.startsWith",
+      5
+    ],
+    [
+      "org.springframework.util.ObjectUtils.nullSafeEquals",
+      4
+    ],
+    [
+      "java.util.concurrent.ConcurrentHashMap.putVal",
+      3
+    ],
+    [
+      "org.h2.jdbc.JdbcPreparedStatement.executeQuery",
+      2
+    ],
+    [
+      "java.lang.Class.getName",
+      2
+    ],
+    [
+      "org.h2.expression.condition.Comparison.getValue",
+      2
+    ],
+    [
+      "java.lang.StringLatin1.toLowerCase",
+      2
+    ],
+    [
+      "com.fasterxml.jackson.databind.ObjectReader._initForReading",
+      2
+    ],
+    [
+      "io.micrometer.observation.SimpleObservationRegistry.getCurrentObservation",
+      2
+    ]
+  ],
+  "garbage_collections": [
+    {
+      "startTime": "2026-11-21T09:14:41.517666333+04:00",
+      "duration": "PT0.002589709S",
+      "gcId": 10,
+      "name": "G1New",
+      "cause": "G1 Evacuation Pause",
+      "sumOfPauses": "PT0.002589709S",
+      "longestPause": "PT0.002589709S"
+    },
+    {
+      "startTime": "2026-11-21T09:14:53.700147083+04:00",
+      "duration": "PT0.002854S",
+      "gcId": 11,
+      "name": "G1New",
+      "cause": "G1 Evacuation Pause",
+      "sumOfPauses": "PT0.002854S",
+      "longestPause": "PT0.002854S"
+    },
+    {
+      "startTime": "2026-11-21T09:15:05.974269083+04:00",
+      "duration": "PT0.003935292S",
+      "gcId": 12,
+      "name": "G1New",
+      "cause": "G1 Evacuation Pause",
+      "sumOfPauses": "PT0.003935292S",
+      "longestPause": "PT0.003935292S"
+    }
+  ],
+  "gc_pause_sum_ms": 9.379001,
+  "gc_pause_max_ms": 3.935292
+}

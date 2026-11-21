@@ -1,0 +1,4 @@
+39712:
+Started recording 1. The result will be written to:
+
+/Users/che1nov/Projects/Теория и практика многопоточности/jmeter-api-lab/results/peak.jfr

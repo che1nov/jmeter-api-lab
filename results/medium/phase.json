@@ -1,0 +1,11 @@
+{
+  "name": "medium",
+  "users": 50,
+  "duration_seconds": 45,
+  "ramp_seconds": 10,
+  "process_started_at": 1795238016.839189,
+  "requests": 4916,
+  "errors": 0,
+  "cleanup_requests": 38,
+  "metric_samples": 24
+}

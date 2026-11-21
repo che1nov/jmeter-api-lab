@@ -1,0 +1,9 @@
+category,priority,minPriority,filterStatus
+study,1,1,OPEN
+report,2,2,DONE
+meeting,3,3,OPEN
+review,4,4,DONE
+study,5,5,DONE
+report,3,1,OPEN
+meeting,2,2,DONE
+review,1,3,OPEN

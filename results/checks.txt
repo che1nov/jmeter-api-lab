@@ -1,0 +1,7 @@
+4 HTTP integration tests passed.
+All four load phases reached the configured user count.
+21620 primary HTTP samples: zero errors (including assertions).
+Invalid priority check: HTTP 400 correctly detected by JMeter assertion.
+Database restored to 200 seed tasks after cleanup.
+JMX embedded assertion matches readable Groovy copy.
+All local Markdown links resolve.

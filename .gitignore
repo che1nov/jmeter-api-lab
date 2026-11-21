@@ -1,0 +1,9 @@
+/target/
+/.tools/
+/.runtime/
+__pycache__/
+.DS_Store
+results/*/dashboard/
+results/*/application.log
+results/*/jmeter.log
+*.jfr

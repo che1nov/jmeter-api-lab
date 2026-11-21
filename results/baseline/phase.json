@@ -1,0 +1,11 @@
+{
+  "name": "baseline",
+  "users": 10,
+  "duration_seconds": 45,
+  "ramp_seconds": 10,
+  "process_started_at": 1795237966.543715,
+  "requests": 982,
+  "errors": 0,
+  "cleanup_requests": 7,
+  "metric_samples": 24
+}

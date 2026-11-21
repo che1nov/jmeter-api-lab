@@ -1,0 +1,11 @@
+{
+  "name": "recovery",
+  "users": 10,
+  "duration_seconds": 45,
+  "ramp_seconds": 10,
+  "process_started_at": 1795238117.985882,
+  "requests": 983,
+  "errors": 0,
+  "cleanup_requests": 8,
+  "metric_samples": 24
+}

@@ -1,0 +1,11 @@
+{
+  "name": "warmup",
+  "users": 10,
+  "duration_seconds": 20,
+  "ramp_seconds": 5,
+  "process_started_at": 1795237944.383928,
+  "requests": 430,
+  "errors": 0,
+  "cleanup_requests": 5,
+  "metric_samples": 11
+}

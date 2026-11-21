@@ -1,0 +1,398 @@
+[
+  {
+    "name": "baseline",
+    "users": 10,
+    "started_at_ms": 1795237967931,
+    "ended_at_ms": 1795238012094,
+    "steady_from_ms": 1795237982931,
+    "steady_to_ms": 1795238007931,
+    "whole_run": {
+      "count": 982,
+      "errors": 0,
+      "rps": 22.235808255779727,
+      "mean_ms": 2.4674134419551934,
+      "p50_ms": 2,
+      "p95_ms": 4,
+      "p99_ms": 5,
+      "max_ms": 27
+    },
+    "steady": {
+      "count": 609,
+      "errors": 0,
+      "rps": 24.36,
+      "mean_ms": 2.4220032840722494,
+      "p50_ms": 2,
+      "p95_ms": 4,
+      "p99_ms": 5,
+      "max_ms": 27
+    },
+    "endpoints": {
+      "01 GET list": {
+        "count": 99,
+        "errors": 0,
+        "rps": 3.96,
+        "mean_ms": 2.2323232323232323,
+        "p50_ms": 2,
+        "p95_ms": 3,
+        "p99_ms": 4,
+        "max_ms": 4
+      },
+      "02 POST create": {
+        "count": 100,
+        "errors": 0,
+        "rps": 4.0,
+        "mean_ms": 2.89,
+        "p50_ms": 3,
+        "p95_ms": 4,
+        "p99_ms": 5,
+        "max_ms": 5
+      },
+      "03 GET created": {
+        "count": 103,
+        "errors": 0,
+        "rps": 4.12,
+        "mean_ms": 1.9514563106796117,
+        "p50_ms": 2,
+        "p95_ms": 3,
+        "p99_ms": 3,
+        "max_ms": 4
+      },
+      "04 PUT update": {
+        "count": 101,
+        "errors": 0,
+        "rps": 4.04,
+        "mean_ms": 2.910891089108911,
+        "p50_ms": 3,
+        "p95_ms": 5,
+        "p99_ms": 5,
+        "max_ms": 8
+      },
+      "05 GET updated": {
+        "count": 103,
+        "errors": 0,
+        "rps": 4.12,
+        "mean_ms": 2.3300970873786406,
+        "p50_ms": 2,
+        "p95_ms": 3,
+        "p99_ms": 6,
+        "max_ms": 27
+      },
+      "06 DELETE cleanup": {
+        "count": 103,
+        "errors": 0,
+        "rps": 4.12,
+        "mean_ms": 2.233009708737864,
+        "p50_ms": 2,
+        "p95_ms": 3,
+        "p99_ms": 4,
+        "max_ms": 4
+      }
+    },
+    "sampled_metric_maxima": {
+      "process.cpu.usage": 0.01295429858391382,
+      "jvm.memory.used": 161069296.0,
+      "jvm.threads.live": 23.0,
+      "hikaricp.connections.active": 0.0,
+      "hikaricp.connections.pending": 0.0
+    },
+    "monitoring_errors": 0,
+    "cleanup_requests": 7
+  },
+  {
+    "name": "medium",
+    "users": 50,
+    "started_at_ms": 1795238017955,
+    "ended_at_ms": 1795238062380,
+    "steady_from_ms": 1795238032955,
+    "steady_to_ms": 1795238057955,
+    "whole_run": {
+      "count": 4916,
+      "errors": 0,
+      "rps": 110.65841305571188,
+      "mean_ms": 0.9786411716842962,
+      "p50_ms": 1,
+      "p95_ms": 2,
+      "p99_ms": 3,
+      "max_ms": 42
+    },
+    "steady": {
+      "count": 3061,
+      "errors": 0,
+      "rps": 122.44,
+      "mean_ms": 0.9758248938255472,
+      "p50_ms": 1,
+      "p95_ms": 2,
+      "p99_ms": 3,
+      "max_ms": 42
+    },
+    "endpoints": {
+      "01 GET list": {
+        "count": 513,
+        "errors": 0,
+        "rps": 20.52,
+        "mean_ms": 1.0019493177387915,
+        "p50_ms": 1,
+        "p95_ms": 2,
+        "p99_ms": 5,
+        "max_ms": 42
+      },
+      "02 POST create": {
+        "count": 509,
+        "errors": 0,
+        "rps": 20.36,
+        "mean_ms": 1.168958742632613,
+        "p50_ms": 1,
+        "p95_ms": 2,
+        "p99_ms": 3,
+        "max_ms": 40
+      },
+      "03 GET created": {
+        "count": 508,
+        "errors": 0,
+        "rps": 20.32,
+        "mean_ms": 0.7322834645669292,
+        "p50_ms": 1,
+        "p95_ms": 2,
+        "p99_ms": 2,
+        "max_ms": 4
+      },
+      "04 PUT update": {
+        "count": 510,
+        "errors": 0,
+        "rps": 20.4,
+        "mean_ms": 1.072549019607843,
+        "p50_ms": 1,
+        "p95_ms": 2,
+        "p99_ms": 3,
+        "max_ms": 13
+      },
+      "05 GET updated": {
+        "count": 513,
+        "errors": 0,
+        "rps": 20.52,
+        "mean_ms": 0.8167641325536062,
+        "p50_ms": 1,
+        "p95_ms": 2,
+        "p99_ms": 2,
+        "max_ms": 19
+      },
+      "06 DELETE cleanup": {
+        "count": 508,
+        "errors": 0,
+        "rps": 20.32,
+        "mean_ms": 1.062992125984252,
+        "p50_ms": 1,
+        "p95_ms": 2,
+        "p99_ms": 3,
+        "max_ms": 39
+      }
+    },
+    "sampled_metric_maxima": {
+      "process.cpu.usage": 0.03705079186253446,
+      "jvm.memory.used": 162651232.0,
+      "jvm.threads.live": 23.0,
+      "hikaricp.connections.active": 0.0,
+      "hikaricp.connections.pending": 0.0
+    },
+    "monitoring_errors": 0,
+    "cleanup_requests": 38
+  },
+  {
+    "name": "peak",
+    "users": 150,
+    "started_at_ms": 1795238068574,
+    "ended_at_ms": 1795238113078,
+    "steady_from_ms": 1795238083574,
+    "steady_to_ms": 1795238108574,
+    "whole_run": {
+      "count": 14739,
+      "errors": 0,
+      "rps": 331.1837138234766,
+      "mean_ms": 0.49474184137322746,
+      "p50_ms": 0,
+      "p95_ms": 1,
+      "p99_ms": 2,
+      "max_ms": 19
+    },
+    "steady": {
+      "count": 9268,
+      "errors": 0,
+      "rps": 370.72,
+      "mean_ms": 0.4967630556754424,
+      "p50_ms": 0,
+      "p95_ms": 1,
+      "p99_ms": 2,
+      "max_ms": 5
+    },
+    "endpoints": {
+      "01 GET list": {
+        "count": 1548,
+        "errors": 0,
+        "rps": 61.92,
+        "mean_ms": 0.524547803617571,
+        "p50_ms": 1,
+        "p95_ms": 1,
+        "p99_ms": 2,
+        "max_ms": 2
+      },
+      "02 POST create": {
+        "count": 1554,
+        "errors": 0,
+        "rps": 62.16,
+        "mean_ms": 0.6216216216216216,
+        "p50_ms": 1,
+        "p95_ms": 1,
+        "p99_ms": 2,
+        "max_ms": 2
+      },
+      "03 GET created": {
+        "count": 1548,
+        "errors": 0,
+        "rps": 61.92,
+        "mean_ms": 0.3888888888888889,
+        "p50_ms": 0,
+        "p95_ms": 1,
+        "p99_ms": 1,
+        "max_ms": 3
+      },
+      "04 PUT update": {
+        "count": 1543,
+        "errors": 0,
+        "rps": 61.72,
+        "mean_ms": 0.5975372650680493,
+        "p50_ms": 1,
+        "p95_ms": 1,
+        "p99_ms": 2,
+        "max_ms": 5
+      },
+      "05 GET updated": {
+        "count": 1535,
+        "errors": 0,
+        "rps": 61.4,
+        "mean_ms": 0.3863192182410424,
+        "p50_ms": 0,
+        "p95_ms": 1,
+        "p99_ms": 1,
+        "max_ms": 2
+      },
+      "06 DELETE cleanup": {
+        "count": 1540,
+        "errors": 0,
+        "rps": 61.6,
+        "mean_ms": 0.4603896103896104,
+        "p50_ms": 0,
+        "p95_ms": 1,
+        "p99_ms": 2,
+        "max_ms": 5
+      }
+    },
+    "sampled_metric_maxima": {
+      "process.cpu.usage": 0.02942559510024956,
+      "jvm.memory.used": 174663488.0,
+      "jvm.threads.live": 28.0,
+      "hikaricp.connections.active": 1.0,
+      "hikaricp.connections.pending": 0.0
+    },
+    "monitoring_errors": 0,
+    "cleanup_requests": 96
+  },
+  {
+    "name": "recovery",
+    "users": 10,
+    "started_at_ms": 1795238119392,
+    "ended_at_ms": 1795238163431,
+    "steady_from_ms": 1795238134392,
+    "steady_to_ms": 1795238159392,
+    "whole_run": {
+      "count": 983,
+      "errors": 0,
+      "rps": 22.32112445786689,
+      "mean_ms": 1.484231943031536,
+      "p50_ms": 1,
+      "p95_ms": 2,
+      "p99_ms": 3,
+      "max_ms": 13
+    },
+    "steady": {
+      "count": 608,
+      "errors": 0,
+      "rps": 24.32,
+      "mean_ms": 1.3717105263157894,
+      "p50_ms": 1,
+      "p95_ms": 2,
+      "p99_ms": 3,
+      "max_ms": 3
+    },
+    "endpoints": {
+      "01 GET list": {
+        "count": 99,
+        "errors": 0,
+        "rps": 3.96,
+        "mean_ms": 1.2828282828282829,
+        "p50_ms": 1,
+        "p95_ms": 2,
+        "p99_ms": 2,
+        "max_ms": 2
+      },
+      "02 POST create": {
+        "count": 101,
+        "errors": 0,
+        "rps": 4.04,
+        "mean_ms": 1.5544554455445545,
+        "p50_ms": 2,
+        "p95_ms": 2,
+        "p99_ms": 3,
+        "max_ms": 3
+      },
+      "03 GET created": {
+        "count": 102,
+        "errors": 0,
+        "rps": 4.08,
+        "mean_ms": 1.3235294117647058,
+        "p50_ms": 1,
+        "p95_ms": 2,
+        "p99_ms": 2,
+        "max_ms": 3
+      },
+      "04 PUT update": {
+        "count": 102,
+        "errors": 0,
+        "rps": 4.08,
+        "mean_ms": 1.5490196078431373,
+        "p50_ms": 2,
+        "p95_ms": 3,
+        "p99_ms": 3,
+        "max_ms": 3
+      },
+      "05 GET updated": {
+        "count": 103,
+        "errors": 0,
+        "rps": 4.12,
+        "mean_ms": 1.203883495145631,
+        "p50_ms": 1,
+        "p95_ms": 2,
+        "p99_ms": 2,
+        "max_ms": 2
+      },
+      "06 DELETE cleanup": {
+        "count": 101,
+        "errors": 0,
+        "rps": 4.04,
+        "mean_ms": 1.316831683168317,
+        "p50_ms": 1,
+        "p95_ms": 2,
+        "p99_ms": 2,
+        "max_ms": 3
+      }
+    },
+    "sampled_metric_maxima": {
+      "process.cpu.usage": 0.003476531376604694,
+      "jvm.memory.used": 150959744.0,
+      "jvm.threads.live": 27.0,
+      "hikaricp.connections.active": 0.0,
+      "hikaricp.connections.pending": 0.0
+    },
+    "monitoring_errors": 0,
+    "cleanup_requests": 8
+  }
+]

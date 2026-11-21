@@ -1,0 +1,15 @@
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+WARN StatusConsoleListener The use of package scanning to locate plugins is deprecated and will be removed in a future release
+Creating summariser <summary>
+Created the tree successfully using /Users/che1nov/Projects/Теория и практика многопоточности/jmeter-api-lab/load/task-lifecycle.jmx
+Starting standalone test @ 2026 Nov 21 09:14:27 SAMT (1795238067930)
+Waiting for possible Shutdown/StopTestNow/HeapDump/ThreadDump message on port 4445
+summary +     56 in 00:00:02 =   28,1/s Avg:     2 Min:     0 Max:    19 Err:     0 (0,00%) Active: 30 Started: 30 Finished: 0
+summary +   9842 in 00:00:30 =  328,2/s Avg:     0 Min:     0 Max:     5 Err:     0 (0,00%) Active: 150 Started: 150 Finished: 0
+summary =   9898 in 00:00:32 =  309,5/s Avg:     0 Min:     0 Max:    19 Err:     0 (0,00%)
+summary +   4841 in 00:00:13 =  370,2/s Avg:     0 Min:     0 Max:     5 Err:     0 (0,00%) Active: 0 Started: 150 Finished: 150
+summary =  14739 in 00:00:45 =  327,1/s Avg:     0 Min:     0 Max:    19 Err:     0 (0,00%)
+Tidying up ...    @ 2026 Nov 21 09:15:13 SAMT (1795238113082)
+... end of run

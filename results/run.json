@@ -1,0 +1,59 @@
+{
+  "date": "2026-11-21",
+  "phases": [
+    {
+      "name": "baseline",
+      "users": 10,
+      "duration_seconds": 45,
+      "ramp_seconds": 10,
+      "process_started_at": 1795237966.543715,
+      "requests": 982,
+      "errors": 0,
+      "cleanup_requests": 7,
+      "metric_samples": 24
+    },
+    {
+      "name": "medium",
+      "users": 50,
+      "duration_seconds": 45,
+      "ramp_seconds": 10,
+      "process_started_at": 1795238016.839189,
+      "requests": 4916,
+      "errors": 0,
+      "cleanup_requests": 38,
+      "metric_samples": 24
+    },
+    {
+      "name": "peak",
+      "users": 150,
+      "duration_seconds": 45,
+      "ramp_seconds": 10,
+      "process_started_at": 1795238067.482872,
+      "requests": 14739,
+      "errors": 0,
+      "cleanup_requests": 96,
+      "metric_samples": 24
+    },
+    {
+      "name": "recovery",
+      "users": 10,
+      "duration_seconds": 45,
+      "ramp_seconds": 10,
+      "process_started_at": 1795238117.985882,
+      "requests": 983,
+      "errors": 0,
+      "cleanup_requests": 8,
+      "metric_samples": 24
+    }
+  ],
+  "seed_count_after": 200,
+  "metric_names": [
+    "process.cpu.usage",
+    "jvm.memory.used",
+    "jvm.threads.live",
+    "hikaricp.connections.active",
+    "hikaricp.connections.pending"
+  ],
+  "application_heap": "256m..512m",
+  "jmeter_heap": "256m..512m"
+}

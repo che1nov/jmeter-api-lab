@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-21",
+  "timezone": "Europe/Samara",
+  "os": "macOS-27.2.1-arm64-arm-64bit",
+  "logical_cpus": 10,
+  "java": "openjdk version \"17.0.19\" 2026-04-21 LTS\nOpenJDK Runtime Environment Corretto-17.0.19.10.1 (build 17.0.19+10-LTS)\nOpenJDK 64-Bit Server VM Corretto-17.0.19.10.1 (build 17.0.19+10-LTS, mixed mode, sharing)\n",
+  "spring_boot": "3.5.16",
+  "jmeter": "5.6.3",
+  "application_heap": "-Xms256m -Xmx512m",
+  "jmeter_heap": "-Xms256m -Xmx512m",
+  "initial_tasks": 200,
+  "hikari_maximum_pool_size": 10,
+  "same_host": true,
+  "think_time_ms": [
+    200,
+    600
+  ]
+}
